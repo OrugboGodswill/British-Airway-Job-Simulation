@@ -1,4 +1,4 @@
-<img width="1889" height="1073" alt="image" src="https://github.com/user-attachments/assets/bcb79980-07fb-4bb9-83b6-cedefb8064b5" /># British-Airway-Job-Simulation
+# British-Airway-Job-Simulation
 A data science project that analyzes airline passenger data to determine lounge cabin eligibility (Tier 1–3) based on defined criteria, and builds a classification model using historical data to predict whether a customer will complete a flight booking.
 
 # Task 1 - Create a reusable lookup table and written justification that British Airways can apply to future flying schedules
